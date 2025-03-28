@@ -3,3 +3,4 @@ __pycache__/
 .vscode/
 maps/
 class_public/
+.DS_Store
